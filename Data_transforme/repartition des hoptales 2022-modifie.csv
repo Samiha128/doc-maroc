@@ -1,0 +1,171 @@
+﻿Région,Delegation,Commune,Etablissement hospitalier,Catégorie,Nom Complet
+Tanger-Tetouan-Al Hoceima,Al Hoceima,Al Hoceima (Mun.),Mohamed V,HP,Hôpital Provincial/Préfectoral
+Tanger-Tetouan-Al Hoceima,Al Hoceima,Al Hoceima (Mun.),C. d'oncologie d'Al Hoceima,CRO,Centre Régional d'Oncologie
+Tanger-Tetouan-Al Hoceima,Al Hoceima,Imzouren (Mun.),Imzouren,HPr,Hôpital de Proximité
+Tanger-Tetouan-Al Hoceima,Al Hoceima,Targuist (Mun.),Targuist,HPr,Hôpital de Proximité
+Tanger-Tetouan-Al Hoceima,Chefchaouen,Chefchaouen (Mun.),Mohamed V,HP,Hôpital Provincial/Préfectoral
+Tanger-Tetouan-Al Hoceima,Larache,Ksar El Kebir (Mun.),Ksar El Kebir,HPr,Hôpital de Proximité
+Tanger-Tetouan-Al Hoceima,Larache,Larache (Mun.),Lalla Meriem,HP,Hôpital Provincial/Préfectoral
+Tanger-Tetouan-Al Hoceima,Ouezzane,Ouezzane (Mun.),Abou Kacem Zahraoui,HP,Hôpital Provincial/Préfectoral
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Assilah (Mun.),Assilah,HPr,Hôpital de Proximité
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Bni Makada (Arrond.),Mohammed Vi,HPr,Hôpital de Proximité
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Mghogha (Arrond.),Arrazi,HPsyR,Hôpital Psychiatrique Régional
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Al Madina (Arrond.),Mohamed V,HR,Hôpital Régional
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Al Madina (Arrond.),Al Kortobi,HR,Hôpital Régional
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Al Madina (Arrond.),Duc De Tovar,HR,Hôpital Régional
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Al Madina (Arrond.),Centre d'oncologie,HIR,Hospital Interrégional
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Gueznaia (Mun.),Hôpital mère enfant Mohamed VI,HIR,Hospital Interrégional
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Gueznaia (Mun.),Hôpital psychiatrique Mohamed VI,CPU,Centre Psychiatrique Universitaire
+Tanger-Tetouan-Al Hoceima,Tanger Assilah,Gueznaia (Mun.),Hôpital des spécialité Mohamed VI,HIR,Hospital Interrégional
+Tanger-Tetouan-Al Hoceima,Tetouan,Tétouan (Mun.),Hôpital.Civil,HP,Hôpital Provincial/Préfectoral
+Tanger-Tetouan-Al Hoceima,Tetouan,Tétouan (Mun.),Errazi,HPsyP,Hôpital Psychiatrique Provincial/préfectoral
+Tanger-Tetouan-Al Hoceima,Tetouan,Dar Bni Karrich,Ben Karrich,HP,Hôpital Provincial/Préfectoral
+Tanger-Tetouan-Al Hoceima,Mdiq-Fnideq,Fnideq (Mun.),Hassan II,HPr,Hôpital de Proximité
+Tanger-Tetouan-Al Hoceima,Mdiq-Fnideq,M'Diq (Mun.),Mohammed VI,HP,Hôpital Provincial/Préfectoral
+Oriental,Berkane,Berkane (Mun.),Edderak,HP,Hôpital Provincial/Préfectoral
+Oriental,Berkane,Saidia (Mun.),Saidia,HPr,Hôpital de Proximité
+Oriental,Driouch,Driouch (Mun.),Driouch,HP,Hôpital Provincial/Préfectoral
+Oriental,Figuig,Bouarfa (Mun.),Hassan II,HP,Hôpital Provincial/Préfectoral
+Oriental,Guercif,Guercif (Mun.),Guercif,HP,Hôpital Provincial/Préfectoral
+Oriental,Jerada,Laaouinate,Jrada,HP,Hôpital Provincial/Préfectoral
+Oriental,Nador,Al Aaroui (Mun.),Mohammed Vi,HPr,Hôpital de Proximité
+Oriental,Nador,Nador (Mun.),Hassani,HP,Hôpital Provincial/Préfectoral
+Oriental,Nador,Zaio (Mun.),Zaio,HPr,Hôpital de Proximité
+Oriental,Oujda Angad,Oujda (Mun.),Al Farabi,HR,Hôpital Régional
+Oriental,Oujda Angad,Oujda (Mun.),Hôpital Psychiatrique,CPU,Centre Psychiatrique Universitaire
+Oriental,Oujda Angad,Oujda (Mun.),Hôpital des Spécialitéss,HIR,Hospital Interrégional
+Oriental,Oujda Angad,Oujda (Mun.),Hôpital Mère-Enfant,HIR,Hospital Interrégional
+Oriental,Oujda Angad,Sidi Moussa Lemhaya,Centre d'oncoligie Hassan II,HIR,Hospital Interrégional
+Oriental,Taourirt,El Aioun Sidi Mellouk (Mun.),HPr Laayoune Sidi Mellouk,HPr,Hôpital de Proximité
+Oriental,Taourirt,Taourirt (Mun.),Taourirt,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Meknes,Meknès (Mun.),Sidi Said,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Meknes,Meknès (Mun.),Mohamed V,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Meknes,Meknès (Mun.),Pagnon,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Meknes,Meknès (Mun.),Moulay Ismail,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Meknes,Meknès (Mun.),Centre d'oncologie,CRO,Centre Régional d'Oncologie
+Fès-Meknès,Boulemane,Missour (Mun.),Marche Verte,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Boulemane,Outat El Haj (Mun.),S. Ahmed B. Driss Missouri,HPr,Hôpital de Proximité
+Fès-Meknès,El Hajeb,El Hajeb (Mun.),Prince My Hassan,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Fes,Agdal (Arrond.),Al Ghassani,HR,Hôpital Régional
+Fès-Meknès,Fes,Agdal (Arrond.),Ibn Al Baitar,HR,Hôpital Régional
+Fès-Meknès,Fes,Saiss (Arrond.),Hôpital d'Oncologie,HIR,Hospital Interrégional
+Fès-Meknès,Fes,Saiss (Arrond.),Hôpital des spécialités,HIR,Hospital Interrégional
+Fès-Meknès,Fes,Saiss (Arrond.),Hôpital Mère-Enfant,HIR,Hospital Interrégional
+Fès-Meknès,Fes,Fès-Médina (Arrond.),Omar Drissi,HIR,Hospital Interrégional
+Fès-Meknès,Fes,El Mariniyine (Arrond.),Ibn Al Khatib,HR,Hôpital Régional
+Fès-Meknès,Fes,El Mariniyine (Arrond.),Ibn Al Hassan,CPU,Centre Psychiatrique Universitaire
+Fès-Meknès,Ifrane,Azrou (Mun.),20 Aout (Azrou),HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Sefrou,Sefrou (Mun.),Mohamed V,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Taounate,Ghafsai (Mun.),Hassan II,HPr,Hôpital de Proximité
+Fès-Meknès,Taounate,Taounate (Mun.),Taounate,HP,Hôpital Provincial/Préfectoral
+Fès-Meknès,Taza,Taza (Mun.),Ibn Baja,HP,Hôpital Provincial/Préfectoral
+Rabat-Salé-Kénitra,Kenitra,Kénitra (Mun.),Al Idrissi,HP,Hôpital Provincial/Préfectoral
+Rabat-Salé-Kénitra,Kenitra,Souk El Arbaa (Mun.),Zoubir Skirej,HPr,Hôpital de Proximité
+Rabat-Salé-Kénitra,Khémisset,Khémisset (Mun.),Khémisset,HP,Hôpital Provincial/Préfectoral
+Rabat-Salé-Kénitra,Khémisset,Rommani (Mun.),Roummani,HPr,Hôpital de Proximité
+Rabat-Salé-Kénitra,Khémisset,Tiflet (Mun.),Tiflet,HPr,Hôpital de Proximité
+Rabat-Salé-Kénitra,Rabat,Agdal Riyad (Arrond.),Ibn Sina,HIR,Hospital Interrégional
+Rabat-Salé-Kénitra,Rabat,Agdal Riyad (Arrond.),Hôpital Des Spécialités,HIR,Hospital Interrégional
+Rabat-Salé-Kénitra,Rabat,Agdal Riyad (Arrond.),Maternité Souissi,HIR,Hospital Interrégional
+Rabat-Salé-Kénitra,Rabat,Agdal Riyad (Arrond.),Hôpital D'enfants,HIR,Hospital Interrégional
+Rabat-Salé-Kénitra,Rabat,Agdal Riyad (Arrond.),Maternité Orangers,HIR,Hospital Interrégional
+Rabat-Salé-Kénitra,Rabat,Agdal Riyad (Arrond.),Med Ben Abdellah,HIR,Hospital Interrégional
+Rabat-Salé-Kénitra,Rabat,Hassan (Arrond.),My Youssef,HIR,Hospital Interrégional
+Rabat-Salé-Kénitra,Rabat,Hassan (Arrond.),Moulay Youssef (Ancien hôpital de Rabat),HR,Hôpital Régional
+Rabat-Salé-Kénitra,Salé,Bab Lamrissa (Arrond.),El Ayachi,HIR,Hospital Interrégional
+Rabat-Salé-Kénitra,Salé,Hssaine (Arrond.),Moulay Abdellah (Hôp.préféctoral),HP,Hôpital Provincial/Préfectoral
+Rabat-Salé-Kénitra,Salé,Tabriquet (Arrond.),Arrazi,CPU,Centre Psychiatrique Universitaire
+Rabat-Salé-Kénitra,Sidi Kacem,Jorf El Melha (Mun.),Jorf Elmelha,HPr,Hôpital de Proximité
+Rabat-Salé-Kénitra,Sidi Kacem,Sidi Kacem (Mun.),Sidi Kacem,HP,Hôpital Provincial/Préfectoral
+Rabat-Salé-Kénitra,Sidi Slimane,Sidi Slimane (Mun.),Sidi Slimane,HP,Hôpital Provincial/Préfectoral
+Rabat-Salé-Kénitra,Skhirate-Temara,Témara (Mun.),Princesse Lalla Aicha (Ancien Sidi Lahcen),HP,Hôpital Provincial/Préfectoral
+Béni Mellal-Khénifra,Azilal,Azilal (Mun.),Haut Atlas Central,HP,Hôpital Provincial/Préfectoral
+Béni Mellal-Khénifra,Azilal,Demnate (Mun.),Demnate,HPr,Hôpital de Proximité
+Béni Mellal-Khénifra,Beni Mellal,Béni Mellal (Mun.),Beni Mellal,HR,Hôpital Régional
+Béni Mellal-Khénifra,Beni Mellal,Kasba Tadla (Mun.),Moulay Ismail,HPr,Hôpital de Proximité
+Béni Mellal-Khénifra,Beni Mellal,Ouled M'Barek,Beni Mellal,CRO,Centre Régional d'Oncologie
+Béni Mellal-Khénifra,Fkih Ben Saleh,Fquih Ben Salah (Mun.),Fquih Ben Salah,HP,Hôpital Provincial/Préfectoral
+Béni Mellal-Khénifra,Fkih Ben Saleh,Fquih Ben Salah (Mun.),Souk Sebt,HPr,Hôpital de Proximité
+Béni Mellal-Khénifra,Khenifra,Khenifra (Mun.),Khenifra,HP,Hôpital Provincial/Préfectoral
+Béni Mellal-Khénifra,Khenifra,M'Rirt (Mun.),M'Rirt,HPr,Hôpital de Proximité
+Béni Mellal-Khénifra,Khouribga,Bejaad (Mun.),Mohamed VI,HPr,Hôpital de Proximité
+Béni Mellal-Khénifra,Khouribga,Khouribga (Mun.),Hassan II,HP,Hôpital Provincial/Préfectoral
+Béni Mellal-Khénifra,Khouribga,Oued Zem (Mun.),Oued.Zem,HPr,Hôpital de Proximité
+Casablanca-Settat,Benslimane,Benslimane (Mun.),Benslimane (Hassan II),HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Berrechid,Berrechid (Mun.),Berrchid,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Berrechid,Berrechid (Mun.),Errazi,HPsyP,Hôpital Psychiatrique Provincial/préfectoral
+Casablanca-Settat,El Jadida,Azemmour (Mun.),Azemmour,HPr,Hôpital de Proximité
+Casablanca-Settat,El Jadida,El Jadida (Mun.),Mohamed V,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Mediouna,Mediouna (Mun.),Mediouna,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Mediouna,Sidi Hajjaj Oued Hassar,Tit Mellil,HPsyP,Hôpital Psychiatrique Provincial/préfectoral
+Casablanca-Settat,Mohammedia,Mohammadia (Mun.),My Abdellah,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Nouaceur,Bouskoura (Mun.),Bouskoura,HPr,Hôpital de Proximité
+Casablanca-Settat,Nouaceur,Dar Bouazza (Mun.),Prince My Hassan,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Settat,Ben Ahmed (Mun.),Ben Ahmed,HPr,Hôpital de Proximité
+Casablanca-Settat,Settat,Settat (Mun.),Hassan II,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Sidi Bennour,Sidi Bennour (Mun.),Sidi Bennour,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Sidi Bennour,Zemamra (Mun.),Zmamra,HPr,Hôpital de Proximité
+Casablanca-Settat,Casablanca Anfa,El Maarif (Arrond.),20 Aout 1953,HIR,Hospital Interrégional
+Casablanca-Settat,Casablanca Anfa,El Maarif (Arrond.),Ibn Rochd,HIR,Hospital Interrégional
+Casablanca-Settat,Casablanca Anfa,El Maarif (Arrond.),Hôpital D'enfants,HIR,Hospital Interrégional
+Casablanca-Settat,Casablanca Anfa,Sidi Belyout (Arrond.),My Youssef,HR,Hôpital Régional
+Casablanca-Settat,Al Fida-Mers Sultan,Al-Fida (Arrond.),Mohamed Baouafi,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Aïn Sebaâ-Hay Mohammadi,Hay Mohammadi (Arrond.),Mohamed V,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Hay Hassani,Hay-Hassani (Arrond.),El Hassani,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Aïn Chok,Aîn-Chock (Arrond.),Centre de Léprologie,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Aïn Chok,Aîn-Chock (Arrond.),Mohamed Sekkat,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Sidi Bernoussi,Sidi Bernoussi (Arrond.),Al Mansour,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Sidi Bernoussi,Sidi Moumen (Arrond.),HPr Sidi Moumen,HPr,Hôpital de Proximité
+Casablanca-Settat,Ben Msick,Ben M'Sick (Arrond.),Ben Msick,HP,Hôpital Provincial/Préfectoral
+Casablanca-Settat,Moulay Rachid,Sidi Othmane (Arrond.),Sidi Othmane,HP,Hôpital Provincial/Préfectoral
+Marrakech-Safi,Al Haouz,Tahannaout (Mun.),Mohammed VI,HP,Hôpital Provincial/Préfectoral
+Marrakech-Safi,Chichaoua,Chichaoua (Mun.),Mohamed Vi,HP,Hôpital Provincial/Préfectoral
+Marrakech-Safi,El Kelaa Des Sraghna,El Kelaâ des Sraghna (Mun.),Assalama,HP,Hôpital Provincial/Préfectoral
+Marrakech-Safi,El Kelaa Des Sraghna,El Kelaâ des Sraghna (Mun.),Hôpital psychiatrique,HPsyP,Hôpital Psychiatrique Provincial/préfectoral
+Marrakech-Safi,El Kelaa Des Sraghna,Tamallalt (Mun.),Princesse Lalla Khadija,HPr,Hôpital de Proximité
+Marrakech-Safi,Essaouira,Essaouira (Mun.),Sidi Med Ben Abdellah,HP,Hôpital Provincial/Préfectoral
+Marrakech-Safi,Marrakech,Gueliz (Arrond.),Ibn Tofeil,HIR,Hospital Interrégional
+Marrakech-Safi,Marrakech,Gueliz (Arrond.),Ibn Nafis,CPU,Centre Psychiatrique Universitaire
+Marrakech-Safi,Marrakech,Gueliz (Arrond.),Hopital Mère-Enfant,HIR,Hospital Interrégional
+Marrakech-Safi,Marrakech,Gueliz (Arrond.),Centre d'Hématologie Oncologie,HIR,Hospital Interrégional
+Marrakech-Safi,Marrakech,Gueliz (Arrond.),Arrazi,HIR,Hospital Interrégional
+Marrakech-Safi,Marrakech,Marrakech-Médina (Arrond.),Ibn Zohr,HR,Hôpital Régional
+Marrakech-Safi,Marrakech,Marrakech-Médina (Arrond.),El Antaki,HR,Hôpital Régional
+Marrakech-Safi,Marrakech,Ménara (Arrond.),Mhamid,HPr,Hôpital de Proximité
+Marrakech-Safi,Marrakech,Sidi Youssef Ben Ali (Arrond.),Charifa,HPr,Hôpital de Proximité
+Marrakech-Safi,Marrakech,Saada,Saada,HPsyR,Hôpital Psychiatrique Régional
+Marrakech-Safi,Rehamena,Ben Guerir (Mun.),Benguerir,HP,Hôpital Provincial/Préfectoral
+Marrakech-Safi,Safi,Safi (Mun.),Mohamed V,HP,Hôpital Provincial/Préfectoral
+Marrakech-Safi,Safi,Safi (Mun.),Aisha,HPr,Hôpital de Proximité
+Marrakech-Safi,Youssoufia,Youssoufia (Mun.),Lalla Hasna,HP,Hôpital Provincial/Préfectoral
+Drâa-Tafilalet,Errachidia,Arfoud (Mun.),Sghiri Houmman I Ben Maati,HPr,Hôpital de Proximité
+Drâa-Tafilalet,Errachidia,Errachidia (Mun.),My Ali Cherif,HR,Hôpital Régional
+Drâa-Tafilalet,Errachidia,Errachidia (Mun.),Hôpital Amir Soultan Ibn Abdelaziz,HP,Hôpital Provincial/Préfectoral
+Drâa-Tafilalet,Errachidia,Goulmima (Mun.),20 Aout (Goulmima),HPr,Hôpital de Proximité
+Drâa-Tafilalet,Midelt,Midelt (Mun.),Midelt,HP,Hôpital Provincial/Préfectoral
+Drâa-Tafilalet,Midelt,Er-rich (Mun.),HPr Rich,HPr,Hôpital de Proximité
+Drâa-Tafilalet,Ouarzazate,Ouarzazate (Mun.),Sidi Hssain Bencer,HP,Hôpital Provincial/Préfectoral
+Drâa-Tafilalet,Ouarzazate,Ouarzazate (Mun.),Bougafer,HP,Hôpital Provincial/Préfectoral
+Drâa-Tafilalet,Tinghir,Kalaat M'Gouna (Mun.),HPr Kalaat M'gouna,HPr,Hôpital de Proximité
+Drâa-Tafilalet,Tinghir,Tinghir (Mun.),Tinghir,HP,Hôpital Provincial/Préfectoral
+Drâa-Tafilalet,Zagora,Zagora (Mun.),Ed-Derrak,HP,Hôpital Provincial/Préfectoral
+Souss-Massa,Agadir Ida Ou Tanane,Agadir (Mun.),Hassan II,HR,Hôpital Régional
+Souss-Massa,Agadir Ida Ou Tanane,Agadir (Mun.),C. d'Oncologie d'Agadir,CRO,Centre Régional d'Oncologie
+Souss-Massa,Chtouka Ait Baha,Biougra (Mun.),Mokhtar Soussi,HP,Hôpital Provincial/Préfectoral
+Souss-Massa,Inezgane Ait Melloul,Inezgane (Mun.),Inezgane,HP,Hôpital Provincial/Préfectoral
+Souss-Massa,Taroudant,Oulad Teima (Mun.),Oulad Teima,HPr,Hôpital de Proximité
+Souss-Massa,Taroudant,Taroudannt (Mun.),Mokhtar Es-Soussi,HP,Hôpital Provincial/Préfectoral
+Souss-Massa,Tata,Tata (Mun.),Tata,HP,Hôpital Provincial/Préfectoral
+Souss-Massa,Tiznit,Tiznit (Mun.),Hassan 1er,HP,Hôpital Provincial/Préfectoral
+Souss-Massa,Tiznit,Tiznit (Mun.),Houmman El Fatouaki,HP,Hôpital Provincial/Préfectoral
+Guelmim-Oued Noun,Assa-zag,Assa (Mun.),Assa,HP,Hôpital Provincial/Préfectoral
+Guelmim-Oued Noun,Guelmim,Bouizakarne (Mun.),Bouizakaren,HPr,Hôpital de Proximité
+Guelmim-Oued Noun,Guelmim,Guelmim (Mun.),Guelmim,HR,Hôpital Régional
+Guelmim-Oued Noun,Sidi Ifni,Sidi Ifni (Mun.),Sidi Ifni,HP,Hôpital Provincial/Préfectoral
+Guelmim-Oued Noun,Tan Tan,Tan Tan (Mun.),Hassan II,HP,Hôpital Provincial/Préfectoral
+Laayoune-Sakia El Hamra,Boujdour,Boujdour (Mun.),Boujdour,HP,Hôpital Provincial/Préfectoral
+Laayoune-Sakia El Hamra,Es Semara,Es-semara (Mun.),Es-Smara,HP,Hôpital Provincial/Préfectoral
+Laayoune-Sakia El Hamra,Laayoune,Laayoune (Mun.),My Hassan Ben El Mehdi,HR,Hôpital Régional
+Laayoune-Sakia El Hamra,Laayoune,Laayoune (Mun.),Hassan II,HR,Hôpital Régional
+Laayoune-Sakia El Hamra,Laayoune,Laayoune (Mun.),Laayoune,CRO,Centre Régional d'Oncologie
+Eddakhla-Oued Eddahab,Oued Ed-Dahab,Dakhla (Mun.),Hassan II,HR,Hôpital Régional
